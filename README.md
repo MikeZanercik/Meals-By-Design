@@ -1,4 +1,5 @@
 # [MealsByDesign](https://mealsbydesign.herokuapp.com/)
+## [Deployed Link](https://mealsbydesign.herokuapp.com/)
 
 ## Description
 MealsByDesign is an application for those who want to create structure in their grocery and spending habits on food. It corresponds to the following user story:
@@ -40,7 +41,6 @@ We used the following tools:
    * User Authentication: [Passport Docs](http://www.passportjs.org/docs/),[a code tutorial](https://code.tutsplus.com/tutorials/using-passport-with-sequelize-and-mysql--cms-27537)
    * Password Encryption: [helpful article](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/), [documentation](https://www.npmjs.com/package/bcryptjs)
    * Sessions 
-4. For everything else that made us want to flip a table....we picked the wonderful minds of our instructor, Jeff, our TAs (Alex, Cassidy & Max), and Allison Payne.
 
 
 ### Future Development Ideas
@@ -50,3 +50,10 @@ We used the following tools:
 * A recipe builder that can account for how much of an ingredient is needed when generating a grocery list
 * The ability to connect accounts to member(s) of the same household
 * An area for notes on meals such as meal ideas, ratings, future modifications
+
+### Overview
+* This is the main homepage a user first see upon loading the site. It is aesthetic pleasing and easy to understand.
+![screen1](public\assets\images\homepage.PNG)
+
+* This image shows the login screen. A consistent theme and easy readability can be found throughout this site, to create the best user experience possible.  
+![screen2](public\assets\images\loginpage.PNG)
