@@ -53,7 +53,7 @@ We used the following tools:
 
 ### Overview
 * This is the main homepage a user first see upon loading the site. It is aesthetic pleasing and easy to understand.
-![screen1](public\assets\images\homepage.PNG)
+![screen1](/public/assets/images/homepage.PNG)
 
 * This image shows the login screen. A consistent theme and easy readability can be found throughout this site, to create the best user experience possible.  
-![screen2](public\assets\images\loginpage.PNG)
+![screen2](/public/assets/images/loginpage.PNG)
